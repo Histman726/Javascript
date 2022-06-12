@@ -44,6 +44,7 @@
         Parametros();
         Parametros(nombre,edad);
 
+        let p="<p>Hola</p>"
         //Funciones expresadas
         const funcionexpresada=function(){//Funcion anonima
             console.log("Esto es una funcion expresada, es decir una funcion que se le ha asignado a una variable, la cual no se puede invocar antes de su declaracion");
