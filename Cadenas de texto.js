@@ -6,11 +6,11 @@ let lorem="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim simili
 
 console.log(nombre,apellido,saludo);
 console.log(nombre.length,
-apellido.length,
-saludo.length,
-nombre.toUpperCase(),
-apellido.toLowerCase(),
-lorem.includes("amet"),//Busca la frase inscrita
-lorem.trim(),//Quita todos los espacios alrededor del texto
-lorem.split(" ")//Convertirlo a un array con caracter que los separe
+    apellido.length,
+    saludo.length,
+    nombre.toUpperCase(),
+    apellido.toLowerCase(),
+    lorem.includes("amet"),//Busca la frase inscrita
+    lorem.trim(),//Quita todos los espacios alrededor del texto
+    lorem.split(" ")//Convertirlo a un array con caracter que los separe
 );
