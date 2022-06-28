@@ -1,0 +1,10 @@
+//9) Programa una función que obtenga un numero aleatorio entre 501 y 600.
+
+const getRandom=(min=501,max=600)=>{
+    min=Math.ceil(min)
+    max=Math.floor(max)
+
+    return Math.floor(Math.random()*(max-min+1) +min)
+}
+
+console.info(getRandom())
