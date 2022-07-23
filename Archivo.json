@@ -1,0 +1,11 @@
+{
+  "cadena": "Json",
+  "numero":35,
+  "booleano":true,
+  "arreglo":["correr","caminar","cocinar"],
+  "objeto":{
+    "twiter":"Histman7",
+    "email":"ivantovar26.hist@gmail.com"
+  },
+  "nulo":null
+}
